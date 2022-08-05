@@ -1,0 +1,2 @@
+ssh-keygen -C "syedumairh1998+g1@gmail.com"
+cat ~/.ssh/local_key.pub
